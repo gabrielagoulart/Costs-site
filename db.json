@@ -1,6 +1,5 @@
 {
   "projects": [
-
     {
       "id": "ea0b",
       "name": "Meu Projeto 1",
@@ -22,8 +21,18 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "b504",
+      "name": "Meu Projeto 3",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
-
   ],
   "categories": [
     {
