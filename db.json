@@ -8,19 +8,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 466,
+      "cost": 417,
       "services": [
         {
-          "name": "batata",
-          "cost": "366",
-          "description": "Duarda aprende com Gabiru",
-          "id": "c60b33e6-5e6b-4c45-9122-31292a176e8a"
-        },
-        {
-          "name": "batata",
-          "cost": "100",
-          "description": "teste",
-          "id": "af9aeafa-9db6-49ce-acbe-b2ce8b8b0d2b"
+          "name": "Batata",
+          "cost": "417",
+          "description": "a",
+          "id": "2e6192fd-4286-4bba-895c-c9d73da97454"
         }
       ]
     }
